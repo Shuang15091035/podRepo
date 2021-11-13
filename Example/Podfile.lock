@@ -1,0 +1,16 @@
+PODS:
+  - podRepo (0.1.0)
+
+DEPENDENCIES:
+  - podRepo (from `../`)
+
+EXTERNAL SOURCES:
+  podRepo:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  podRepo: 16009aad8efa669229cc23132fd459f9b093c75d
+
+PODFILE CHECKSUM: e017c30ef8c14bd074996823afa170916de408c1
+
+COCOAPODS: 1.11.2
